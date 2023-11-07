@@ -1,0 +1,1 @@
+username:password@255.255.255.255:666#https://proxy.com/reboot
